@@ -1,0 +1,10 @@
+Algorithm Oddnumber
+    Define accountant like odd
+    for accountant = 1 until 100 do
+       if accountant mod 2 == 0.5 so
+          Write "The number",accountant ," is odd"
+       Endif 
+    EndFor
+    
+    EndAlgorithm 
+    
